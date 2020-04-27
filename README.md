@@ -10,5 +10,5 @@ The data we're using is from Kaggle dog breed identification competition.
 https://www.kaggle.com/c/dog-breed-identification/data
 
 3. Software Requirement:-
-   i. you need to have a Google account for using google colab for accessing GPU.
-  ii. you also have to active GPU option in google colab notebook.
+   * you need to have a Google account for using google colab for accessing GPU.
+   * you also have to active GPU option in google colab notebook.
